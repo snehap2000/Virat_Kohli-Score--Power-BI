@@ -26,10 +26,16 @@ This project is a Power BI dashboard that analyzes and visualizes the cricket pe
 
 
 
+
+
+
 ## Dataset used 
 
 
 <a href = "https://github.com/snehap2000/Virat_Kohli_Score-Power_BI/blob/main/V_K%20dataset.csv" > Dataset</a>
+
+
+
 
 
 
@@ -48,9 +54,16 @@ This project is a Power BI dashboard that analyzes and visualizes the cricket pe
 
 
 
+
+
   ## Dashboard Interaction
 
   <a href = "https://github.com/snehap2000/Virat_Kohli_Score-Power_BI/blob/main/Virat_k%20PBI.pbix" >view Dashboard</a>
+
+
+
+
+
 
 
 # Process
@@ -64,6 +77,9 @@ Format Comparison: A page that compares his performance in ODIs, Tests, and T20s
 
 Opponent Performance: A visualization that shows Virat's performance against different teams, including runs scored, average, and strike rate.
 Top Performances: A highlight of his top 5 highest scores in each format.
+
+
+
 
 
 
