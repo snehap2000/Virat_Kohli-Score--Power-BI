@@ -3,7 +3,12 @@
 This Power BI project visualizes the performance and career statistics of Virat Kohli, one of the most successful cricketers of all time.
 
 
+
+
+
 ## Virat_Kohli_Score Data Analysis: Enhancing Insights for a Career Progression
+
+
 
 
 # Project Objective
