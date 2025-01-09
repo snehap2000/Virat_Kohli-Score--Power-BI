@@ -58,7 +58,8 @@ This project is a Power BI dashboard that analyzes and visualizes the cricket pe
 
   ## Dashboard Interaction
 
-  <a href = "https://github.com/snehap2000/Virat_Kohli_Score-Power_BI/blob/main/Virat_k%20PBI.pbix" >view Dashboard</a>
+
+  <a href = "https://github.com/snehap2000/Virat_Kohli_Score-Power_BI/blob/main/Virat_k%20PBI.pbix" >View Dashboard</a>
 
 
 
