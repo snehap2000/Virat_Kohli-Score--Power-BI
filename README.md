@@ -6,7 +6,7 @@ This Power BI project visualizes the performance and career statistics of Virat 
 
 
 
-## Virat_Kohli_Score Data Analysis: Enhancing Insights for a Career Progression
+## Virat_Kohli_Score Data Analysis: Enhancing Insights for a Career Progression 
 
 
 
